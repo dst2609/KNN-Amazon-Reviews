@@ -1,8 +1,8 @@
 REPORT 1
 
 The program file can be found in /~src sub folder in the submission folder. The file is named “main.py” and the programming language used is Python. To run this code, simply run the source code and the program will be up and running. Necessary imports in the code are as follows: import os, import nltk, import string, import re, import collection. While running the code, the code will create as many as 4 separate .txt files while running in the same directory. It is assumed in the training data file and test data file are located in the same folder as the source code is put in. 
-The name of the training data file is: “1580506710_9392152_train_file.dat”
-The name of the test data file is: “1580506710_9597683_test.dat”
+The name of the training data file is: “train.dat”
+The name of the test data file is: “test.dat”
 These files are only opened and read for data.
 
 	First of all, when the code is run, it will import necessary libraries for implementing and further use. Then the code will open the training data file; after the training data file is open, the code will get positive 
