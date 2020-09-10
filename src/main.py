@@ -18,8 +18,8 @@ stoplist = stopwords.words('english')
 stop_words = set(stopwords.words('english'))
 
 ### GET THE TRAINING AND TEST FILES AND ASSIGN A SHORTER NAME
-training_file = open('1580506710_9392152_train_file.dat', 'r')
-test_file = open('1580506710_9597683_test.dat', 'r')
+training_file = open('train.dat', 'r')
+test_file = open('test.dat', 'r')
 
 
 ## this returns the number of words which are same in positive reviews
