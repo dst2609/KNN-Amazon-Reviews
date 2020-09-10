@@ -1,6 +1,6 @@
 """
 HW 1
-Grade - 67/70
+Grade - 64/70
 """
 ### GET IMPORTS TO USE
 import os
